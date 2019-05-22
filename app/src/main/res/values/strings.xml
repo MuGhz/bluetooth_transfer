@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bluetooth Tansfer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_saved_jobs_detail">It seems you haven\'t saved any jobs yet</string>
+    <string name="no_result_detail">We\'ve searched millions jobs but did not find</string>
+    <string name="no_connection_detail">Slow or no internet connection</string>
+    <string name="no_connection_detail1">Please check your network settings</string>
+</resources>
